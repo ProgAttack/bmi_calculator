@@ -9,7 +9,7 @@ const inactiveCardColour = Color(0xFF111328);
 const bottomContainerColor = Color(0xFFEB1555);
 enum GenderType {male, female}
 
-
+ 
 void main() => runApp(const BMICalculator());
 
 class BMICalculator extends StatelessWidget {
